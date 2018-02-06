@@ -1,0 +1,14 @@
+001;Schedule
+002;Montday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+003;M,T,W,H,F,S,N
+004;January,February,March,April,May,June,July,August,September,November,December
+
+
+
+
+
+
+
+
+
+
