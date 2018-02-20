@@ -1,4 +1,4 @@
-Este repositorio es una practica de acceso a datos de DAM2, obiamente podria estar mas limpio pero por falta
+Este repositorio es una practica de acceso a datos de DAM2, podria estar mas limpio pero por falta
 de tiempo lo entregamos asi. es funcional y no requiere entrada de datos por consola sino por sus ficheros.txt.
 Trata sobre una aplicacion donde le pasas una serie de ficheros de entrada de datos y te genera un .html con una tabla como un
 calendario a traves de las peticiones como si se tratara de unos horarios de una escuela. Funciona con todos los idiomas de entrada
